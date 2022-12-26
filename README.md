@@ -1,2 +1,1 @@
-# egypt-landing-page
-[LINK HERE] (https://anastasi264.github.io/egypt-landing-page/)
+Demo link is available [here](https://anastasi264.github.io/cv_2022/](https://anastasi264.github.io/egypt-landing-page/)
